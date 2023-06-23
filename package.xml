@@ -4,9 +4,9 @@
   <name>super_octo_doodle</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">Michael Banks</maintainer>
+  <maintainer email="my_email@email.com">Mike Banks</maintainer>
   <license>TODO: License declaration</license>
-
+https://github.com/BLKFrieza/super_octo_doodle.git
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <test_depend>ament_lint_auto</test_depend>
